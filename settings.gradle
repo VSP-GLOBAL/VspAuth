@@ -1,0 +1,3 @@
+rootProject.name='VspAuth'
+include ':app'
+include ':vspauth'
